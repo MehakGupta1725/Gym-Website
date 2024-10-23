@@ -9,10 +9,11 @@ body{
   font-size:17px;
   color:white;
   line-height:1.6;
+  background-color: #1a1a1a;
 }
 
 #showcase{
-  background-image: url('./360_F_429356296_CVQ5LkC6Pl55kUNLqLisVKgTw9vjyif1.jpg');
+  background-image: url('C:\\FEE PROJECT\\welcomePage.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -49,6 +50,18 @@ body{
   color:#fff;
 }
 
-#section-c .box-2{
-  background:#f9f9f9;
+/* Add styling for the dynamic section */
+#dynamic-section {
+  margin: 20px;
+  text-align: center;
+}
+
+#dynamic-section h2 {
+  font-size: 24px;
+  color: #fff;
+}
+
+#dynamic-section p {
+  font-size: 18px;
+  color: #ccc;
 }
